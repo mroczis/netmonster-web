@@ -1,0 +1,20 @@
+elm-stuff/
+out/
+
+# Generated output
+app.js
+
+# IntelliJ stuff
+/.idea/*
+*.iml
+
+# linux specific files
+.directory
+*.*~
+
+# mac specific files
+.DS_Store
+
+# windows specific files
+Thumbs.db
+thumbs.db
